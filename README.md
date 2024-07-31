@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://[we102_prework](https://github.com/user-attachments/assets/499d2253-e21b-4dfb-99ff-21fed63abdd3)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
- 
+<img src='http://' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ [we102_prework](https://github.com/user-attachments/assets/499d2253-e21b-4dfb-99ff-21fed63abdd3)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
