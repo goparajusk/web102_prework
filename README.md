@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src=![we102_prework](https://github.com/user-attachments/assets/d82c1dd2-2714-40f6-ae85-3dabc0bf7e65)
+<img src='![we102_prework](https://github.com/user-attachments/assets/d82c1dd2-2714-40f6-ae85-3dabc0bf7e65)]
 
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
