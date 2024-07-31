@@ -2,9 +2,9 @@
 
 Submitted by: **Sai Krishna Bharadwaj Goparaju**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea World Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **25** hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=[we102_prework-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1d3f35f8-3dec-456b-a410-707cbc9e14d6)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
