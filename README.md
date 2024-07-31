@@ -31,7 +31,7 @@ GIF created with ...  EZGif
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
+The gif file is taking a small size gif, so I have provided a small video gif.
 ## Notes
 
 It was very usefull experience to learn and gain knowledge but few times faced the page load isses while solving the problems.
