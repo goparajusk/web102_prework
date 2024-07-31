@@ -7,6 +7,8 @@ body {
 
 #tentacles {
     width: 50px;
+    
+
 }
 
 .header {
@@ -19,10 +21,16 @@ body {
     margin-top: -10px;
 }
 
-.stats-container {
+
+.stats-container{
     display: flex;
+    align-items: center;
 }
 
+.stats-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
