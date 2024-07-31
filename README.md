@@ -34,8 +34,6 @@ GIF created with ...  EZGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 It was very usefull experience to learn and gain knowledge but few times faced the page load isses while solving the problems.
 ## License
 
