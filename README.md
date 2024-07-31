@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.im![we102_prework](https://github.com/user-attachments/assets/499d2253-e21b-4dfb-99ff-21fed63abdd3)
+gur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
 
 <!-- Replace this with whatever GIF tool you used! -->
